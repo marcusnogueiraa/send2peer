@@ -1,4 +1,4 @@
-require_relative "send2peer/command_loader"
+require_relative 'send2peer/command_loader'
 
 module Send2Peer
   class CLI
