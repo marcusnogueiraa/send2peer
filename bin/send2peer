@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require_relative '../lib/send2peer'
-
-Send2Peer::CLI.new.run(ARGV)
